@@ -60,3 +60,20 @@ The requirements and expected behaviours are assumptions defined for this fictio
 ## Disclaimer
 
 ShopEase is a fictional portfolio project created for learning and demonstration purposes. It is not a report of testing performed on a live e-commerce application.
+
+## Project Deliverables
+
+- Requirements documentation
+- 10 manual test cases for login functionality
+- Test data sheet with 10 fictional test data records
+- Bug report template
+- Test plan
+- Test execution report
+
+## Current Status
+
+Project documentation is prepared. Test execution has not started because a working application or test environment has not been established.
+
+## Disclaimer
+
+ShopEase is a fictional portfolio project created to demonstrate manual software testing documentation. The requirements and test data are illustrative and do not represent a real application or real user accounts.
